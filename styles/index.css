@@ -1,13 +1,15 @@
 :root {
-    --color-text-dark: #203253;
-    --color-text-medium: #335D93;
-    --color-icons: #72B3EA;
-    --color-blocks: #F4FAFF;
-    --color-subblocks: #E6F1FA;
+  --color-text-dark: #203253;
+  --color-text-medium: #335d93;
+  --color-icons: #72b3ea;
+  --color-blocks: #f4faff;
+  --color-subblocks: #e6f1fa;
 }
 
-*, *::after, *::before {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }

@@ -1,11 +1,13 @@
 :root {
-    --color-text-dark: #203253;
-    --color-text-medium: #335D93;
-    --color-blocks: #F4FAFF;
+  --color-text-dark: #203253;
+  --color-text-medium: #335d93;
+  --color-blocks: #f4faff;
 }
 
-*, *::after, *::before {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
