@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
 :root {
   --color-text-dark: #203253;
   --color-text-medium: #335d93;
@@ -11,6 +13,11 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+}
+
+html {
+  font-size: 16px;
+  font-family: "Raleway", sans-serif;
 }
 
 .container {
